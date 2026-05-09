@@ -1,0 +1,13 @@
+target/
+apache-maven-3.9.6/
+derby.log
+foodhub_db/
+data/
+*.class
+*.jar
+.classpath
+.project
+.settings/
+.vscode/
+.idea/
+*.iml
